@@ -4,7 +4,7 @@ This repository contains the source code, datasets, and documentation for the ta
 
 **Maze-Agent Simulation**
 
-Explore the maze-agent simulation at the following link: Maze-Agent Simulation.
+Explore the maze-agent simulation at the following link: [Maze-Agent Simulation](https://mazerunner.streamlit.app/).
 
 **Running the Models**
 
